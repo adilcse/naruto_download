@@ -4,6 +4,7 @@
   "description": "",
   "main": "crawl.js",
   "dependencies": {
+    "csv-writer": "^1.6.0",
     "download": "^8.0.0",
     "puppeteer": "^7.0.4"
   },
